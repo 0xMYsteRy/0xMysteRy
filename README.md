@@ -1,20 +1,24 @@
 ### Hi there 👋
-
-<!--
-**0xMYsteRy/0xMysteRy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <a href="https://exp-blog.com" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=0xMysteRy&count_private=true&show_icons=true&theme=cobalt" alt="EXP's github stats" />
 </a>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- I'm a developer from VietNam, and this is the place where I opensource stuff.
 
+#### 👨‍💻  I'm a developer from VietNam, and this is the place where I put opensource stuff.
+<!--BGN_SECTION:introduction-->
+- 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
+- ✨ I’m currently rebuilding my [Blog Site]
+- 🎓 I’m currently learning [Flutter](https://flutter.dev/), [TypeScript](https://www.typescriptlang.org/) and Brainfuck.
+- 💬 Ask me about anything [here](https://github.com/0xMysteRy/0xMysteRy/issues).
+- 📫 How to reach me: ...
+<!--BGN_SECTION:introduction-->
+
+
+#### ⏰  This week I spent my free time on
+<!-- BGN_SECTION:weektime -->
+```text
+Programming    28 hrs    oooooooooooooooxxxxx    66.67%
+Learning       07 hrs    ooooooxxxxxxxxxxxxxx    16.67%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.76%
+Playing        06 hrs    ooooooxxxxxxxxxxxxxx    14.28%
+```
+<!-- END_SECTION:weektime -->
