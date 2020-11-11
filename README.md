@@ -1,7 +1,14 @@
 ### Hi there 👋
+
+<!--BGN_SECTION:github-readme-stats-->
 <a href="https://exp-blog.com" target="_blank">
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMYsteRy&hide=HTML,CSS,TSQL,Cmake&theme=great-gatsby" alt="MYsteRy's Top Langs" />
+</a>
+<a href="" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=0xMysteRy&count_private=true&show_icons=true&theme=cobalt" alt="EXP's github stats" />
 </a>
+
+<!--END_SECTION:github-readme-stats-->
 
 #### 👨‍💻  I'm a developer from VietNam, and this is the place where I put opensource stuff.
 <!--BGN_SECTION:introduction-->
