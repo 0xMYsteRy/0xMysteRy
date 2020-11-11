@@ -9,7 +9,7 @@
 - ✨ I’m currently rebuilding my [Blog Site]
 - 🎓 I’m currently learning [Flutter](https://flutter.dev/), [TypeScript](https://www.typescriptlang.org/) and Brainfuck.
 - 💬 Ask me about anything [here](https://github.com/0xMysteRy/0xMysteRy/issues).
-- 📫 How to reach me: ...
+- 📫 How to reach me: Send me an email via nl544@uowmail.edu.au
 <!--BGN_SECTION:introduction-->
 
 
