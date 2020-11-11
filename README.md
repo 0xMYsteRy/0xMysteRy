@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <a href="https://exp-blog.com" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=0xMysteRy&count_private=true&show_icons=true&theme=gruvbox" alt="EXP's github stats" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=0xMysteRy&count_private=true&show_icons=true&theme=cobalt" alt="EXP's github stats" />
 </a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
