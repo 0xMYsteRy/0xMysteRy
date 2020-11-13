@@ -10,7 +10,7 @@
 
 <!--END_SECTION:github-readme-stats-->
 
-#### 👨‍💻  I'm a developer from VietNam, and this is the place where I put opensource stuff.
+#### 👨‍💻  I'm a developer, and this is the place where I put opensource stuff.
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
 - ✨ I’m currently rebuilding my [Blog Site]
