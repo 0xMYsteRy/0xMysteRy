@@ -20,7 +20,7 @@
 * Software Development
 * Cognitive Neuroscience
 * Bioinformatics
-* Cyber security
+* Cyber Security
 
 #### 👨‍💻  I'm a developer and this is the place where I put opensource stuff.
 <!--BGN_SECTION:introduction-->
