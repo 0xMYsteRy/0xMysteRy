@@ -25,10 +25,10 @@
 #### 👨‍💻  I'm a developer and this is the place where I put opensource stuff.
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
-- ✨ I’m currently rebuilding my [Blog Site]
+- ✨ I’m currently rebuilding my [Blog site](0xMYsteRy.github.io)
 - 🎓 I’m currently learning [Flutter](https://flutter.dev/), [TypeScript](https://www.typescriptlang.org/) and Brainfuck.
 - 💬 Ask me about anything [here](https://github.com/0xMysteRy/0xMysteRy/issues).
-- 📫 How to reach me: Send me an email via nl544@uowmail.edu.au
+- 📫 How to reach me: Yes
 <!--BGN_SECTION:introduction-->
 
 
