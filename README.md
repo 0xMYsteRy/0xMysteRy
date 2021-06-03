@@ -10,6 +10,18 @@
 
 <!--END_SECTION:github-readme-stats-->
 
+#### Things I'm focusing on:
+* Health
+* Weath
+* Meditation
+* Investment
+
+### Fields of interest:
+* Software Development
+* Cognitive Neuroscience
+* Bioinformatics
+* Cyber security
+
 #### 👨‍💻  I'm a developer and this is the place where I put opensource stuff.
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
@@ -23,9 +35,10 @@
 #### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    oooooooooooooooxxxxx    66.67%
-Learning       07 hrs    ooooooxxxxxxxxxxxxxx    16.67%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.76%
-Playing        06 hrs    ooooooxxxxxxxxxxxxxx    14.28%
+Programming    28 hrs    oooooooooooooooxxxxx    
+Learning       07 hrs    ooooooxxxxxxxxxxxxxx    
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    
+Playing        06 hrs    ooooooxxxxxxxxxxxxxx
+Meditation     07 hrs    oxoxoxoxoxoxoxoxoxox
 ```
 <!-- END_SECTION:weektime -->
