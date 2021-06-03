@@ -10,7 +10,7 @@
 
 <!--END_SECTION:github-readme-stats-->
 
-#### Things I'm focusing on:
+### Things I'm focusing on:
 * Health
 * Weath
 * Meditation
