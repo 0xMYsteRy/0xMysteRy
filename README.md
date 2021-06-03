@@ -26,7 +26,7 @@
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
 - ✨ I’m currently rebuilding my [Blog site](0xMYsteRy.github.io)
-- 🎓 I’m currently learning [Flutter](https://flutter.dev/), [TypeScript](https://www.typescriptlang.org/) and Brainfuck.
+- 🎓 I’m currently learning [Reactjs](https://reactjs.org/) (MERN stack)
 - 💬 Ask me about anything [here](https://github.com/0xMysteRy/0xMysteRy/issues).
 - 📫 How to reach me: Yes
 <!--BGN_SECTION:introduction-->
