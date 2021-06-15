@@ -22,7 +22,7 @@
 * Bioinformatics
 * Cyber Security
 
-#### 👨‍💻  I'm a software engineer and this is the place where I put some boring stuffs.
+#### 👨‍💻  He/him - Software Engineer 
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
 - ✨ I’m currently rebuilding my [Blog site](0xMYsteRy.github.io)
