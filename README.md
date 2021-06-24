@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--BGN_SECTION:github-readme-stats-->
+![](https://komarev.com/ghpvc/?username=0xMYsteRy&color=blue)
 <a href="" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMYsteRy&hide=HTML,CSS,TSQL,Makefile,Cmake&theme=great-gatsby" alt="MYsteRy's Top Langs" />
 </a>
