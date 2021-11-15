@@ -38,6 +38,9 @@
 * Bioinformatics
 * Cyber Security
 
+### Mr. Sometime root the box
+<img src="http://www.hackthebox.eu/badge/image/230801" alt="Hack The Box">
+
 #### 👨‍💻  He/him - Software Engineer 
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
