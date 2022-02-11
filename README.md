@@ -49,7 +49,7 @@
 <!--BGN_SECTION:introduction-->
 
 
-#### ⏰  This week I spent my free time on
+<!-- #### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    28 hrs    oooooooooooooooxxxxx    
@@ -58,4 +58,4 @@ Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx
 Playing        06 hrs    ooooooxxxxxxxxxxxxxx
 Meditation     07 hrs    oxoxoxoxoxoxoxoxoxox
 ```
-<!-- END_SECTION:weektime -->
+<!-- END_SECTION:weektime --> -->
