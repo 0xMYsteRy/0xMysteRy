@@ -14,11 +14,11 @@
 
 <!--END_SECTION:github-readme-stats-->
 
-### Things I'm focusing on:
+<!-- ### Things I'm focusing on:
 * Health
 * Weath
 * Meditation
-* Investment
+* Investment -->
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -32,11 +32,11 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
 
-### Fields of interest:
+<!-- ### Fields of interest:
 * Software Development
 * Cognitive Neuroscience
 * Bioinformatics
-* Cyber Security
+* Cyber Security -->
 
 
 #### 👨‍💻  He/him - Software Engineer 
