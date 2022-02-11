@@ -45,6 +45,6 @@
 - ✨ I'm currently learning AWS technologies & services.
 - 🎓 I’m currently learning [Reactjs](https://reactjs.org/) (MERN stack)
 - 💬 Ask me about anything [here](https://github.com/0xMysteRy/0xMysteRy/issues).
-- 📫 How to reach me: Yes
+- 📫 How to reach me: Send a dm via my personal email nguyenledev05@gmail.com
 <!--BGN_SECTION:introduction-->
 
