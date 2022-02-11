@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome, friends 👋
 
 <!--BGN_SECTION:github-readme-stats-->
 
