@@ -48,3 +48,6 @@
 - 📫 How to reach me: Send a dm via my personal email nguyenledev05@gmail.com
 <!--BGN_SECTION:introduction-->
 
+#### Life quote
+You gonna have some ups and you gonna have some downs. Most people give up on themselves easily. It does not matter how many times you win. The real challenge of growth mentally, emotionally and spiritually comes when you get knocked down. It takes courage to act part of being hungry when you have been defeated. It takes courage to stand up. It takes courage to start all over again. Keep grinding & protecting your hunger.
+
