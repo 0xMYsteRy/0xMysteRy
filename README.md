@@ -1,3 +1,4 @@
+<!--
 ### Welcome, friends 👋
 
 <!--BGN_SECTION:github-readme-stats-->
@@ -50,4 +51,13 @@
 
 #### Life quote
 You gonna have some ups and you gonna have some downs. Most people give up on themselves easily. It does not matter how many times you win. The real challenge of growth mentally, emotionally and spiritually comes when you get knocked down. It takes courage to act part of being hungry when you have been defeated. It takes courage to stand up. It takes courage to start all over again. Keep grinding & protecting your hunger.
+-->
+
+Hey, I'm MysteRy 👋
+
+I am a software engineer with a passion for the Java ecosystem, Spring, REST APIs, and, of course, security. Nowadays, I’m focused on some blogging and open software stuffs, creating Java contents and doing quite a bit of Java work.
+
+I'm generally hang out on twitter.
+
+Cheers,
 
