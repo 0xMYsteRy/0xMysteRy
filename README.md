@@ -4,6 +4,7 @@ MYsteRy is a software engineer with a passion for the Java ecosystem. His expert
 
 Check out his workshop [here](https://steamcommunity.com/profiles/76561198275685062/myworkshopfiles/) 
 
-I'm being chill as a clairvoyant, a heyoka empath and also have precognitive dreams. If you vibrate at my like-minded frequency, i am more than welcome to help
+I'm being chill as a clairvoyant, a heyoka empath and also have precognitive dreams. If you vibrate at my like-minded frequency, i am more than welcome to help.
+
 Cheers,
 
