@@ -23,6 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xMYsteRy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMYsteRy&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/0xMYsteRy?cardType=level&theme=radical" />
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xMYsteRy&label=Profile+Views&color=blueviolet&style=flat-square" /> </p>
 
