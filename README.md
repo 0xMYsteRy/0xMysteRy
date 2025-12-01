@@ -2,7 +2,7 @@
 💻 Senior Software Engineer | Software Architect  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6EC7&width=435&lines=Backend+%26+Frontend+Architect;4%2B+Years+of+Experience;Building+Scalable+Systems;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6EC7&width=435&lines=Backend+%26+Frontend+Architect;5%2B+Years+of+Experience;Building+Scalable+Systems;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,11 +34,10 @@
 ---
 
 ## 🏆 Achievements
-- Optimized **enterprise queries** → reduced processing time **40%+**  
-- Built **healthcare imaging system** handling thousands of patient scans  
-- Led backend design for **AI-powered invoice extraction pipeline**  
-- Improved **Search performance** by refactoring multiple algorithms
-  applying Java OOP design patterns, and consolidating queries → reduced response time 80%
+- Optimized enterprise queries → reduced processing time *40%+**  
+- Built healthcare imaging system handling thousands of patient scans  
+- Led backend design for AI-powered invoice extraction pipeline  
+- Improved Search performance by refactoring multiple algorithms, data structrue and resolve N+1 queries → reduced response time 80%
 
 ---
 
