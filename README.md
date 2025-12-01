@@ -14,8 +14,6 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xMYsteRy&label=Profile+Views&color=blueviolet&style=flat-square" /> </p>
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMYsteRy&theme=radical" alt="Streak Stats"/>
@@ -25,6 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xMYsteRy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMYsteRy&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xMYsteRy&label=Profile+Views&color=blueviolet&style=flat-square" /> </p>
 
 ---
 
