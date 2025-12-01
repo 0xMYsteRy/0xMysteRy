@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nguyen Le (Tom)  
+# 👋 Hi, I’m Tom Nguyen
 💻 Senior Software Engineer | Software Architect  
 
 <p align="center">
