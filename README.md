@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,react,nextjs,typescript,postgres,oracle,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,nextjs,postgres,oracle,docker,aws" />
 </p>
 
 ---
