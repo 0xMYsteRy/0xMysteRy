@@ -9,14 +9,14 @@
 
 ## 🚀 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,nextjs,postgres,oracle,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,nextjs,postgres,docker,aws" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMYsteRy&theme=radical" alt="Streak Stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xMystery" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
