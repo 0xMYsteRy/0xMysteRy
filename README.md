@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Tom Nguyen
 💻 Senior Software Engineer | Software Architect  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6EC7&width=435&lines=Software+Architect;5%2B+Years+of+Experience;Building+Scalable+Systems;Lifelong+Learner" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xMystery" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xMysteRy" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
