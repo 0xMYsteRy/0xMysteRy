@@ -15,9 +15,7 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xMysteRy" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=0xMysteRy)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/0xMYsteRy?cardType=level&theme=radical" />
