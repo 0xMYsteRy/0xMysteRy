@@ -15,7 +15,7 @@
 ---
 
 ## 📊 GitHub Analytics
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=0xMysteRy)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=0xMystery&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/0xMYsteRy?cardType=level&theme=radical" />
