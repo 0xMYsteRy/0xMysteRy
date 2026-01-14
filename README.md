@@ -16,8 +16,11 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=0xMystery&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=0xMystery&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/0xMYsteRy?cardType=level&theme=radical" />
