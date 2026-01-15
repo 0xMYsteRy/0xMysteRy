@@ -31,6 +31,12 @@
 
 ---
 
+<p align="center">
+  <img src="./github-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
 ## 🌐 Domain Expertise
 - **Healthcare Solutions** – patient access portals, medical imaging systems, secure data handling  
 - **Financial / Enterprise SaaS** – invoice extraction pipelines, scalable multi-tenant platforms  
