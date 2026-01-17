@@ -45,10 +45,10 @@
 ---
 
 ## 🏆 Achievements
-- Optimized enterprise queries → reduced processing time *40%+**  
+- Optimized enterprise queries → reduced processing time **40%+** 
 - Built healthcare imaging system handling thousands of patient scans  
 - Led backend design for AI-powered invoice extraction pipeline  
-- Improved Search performance by refactoring multiple algorithms, data structrue and resolve N+1 queries → reduced response time 80%
+- Improved Search performance by refactoring multiple algorithms, data structrue and resolve N+1 queries → Reduced response time 80%
 
 ---
 
