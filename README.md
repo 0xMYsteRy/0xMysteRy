@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Tom Nguyen
-💻 Senior Software Engineer | Software Architect  
+💻 Senior Software Engineer | Solution Architect  
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6EC7&width=435&lines=Software+Architect;5%2B+Years+of+Experience;Building+Scalable+Systems;Lifelong+Learner" alt="Typing SVG" />
