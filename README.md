@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6EC7&width=435&lines=Software+Architect;5%2B+Years+of+Experience;Building+Scalable+Systems;Lifelong+Learner" alt="Typing SVG" />
 </p> -->
 
+## 🏅 Certifications
+
+[![AWS Certified Solutions Architect](https://images.credly.com/size/340x340/images/8f27faf6-da11-4b5f-bd04-e29ac2c1cfb6.png)](https://www.credly.com/badges/8f27faf6-da11-4b5f-bd04-e29ac2c1cfb6)
+
+
 ---
 
 ## 🚀 Tech Arsenal
