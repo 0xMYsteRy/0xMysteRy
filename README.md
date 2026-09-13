@@ -1,6 +1,6 @@
 # Hi, I’m Tom Nguyen 👋
 
-Technical consultant for small and medium-sized businesses, with over five years of experience in software engineering, cloud solutions, and system development. 
+I'm a technical consultant for small and medium-sized businesses, with over six years of experience in software engineering, cloud solutions, and system development. 
 I help SMEs automate processes, improve operations, and build practical, scalable, and cost-effective technology solutions.
 
 ## 📫 Connect With Me
