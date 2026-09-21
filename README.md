@@ -2,9 +2,7 @@
 
 I’m a technical consultant with over six years of experience in software engineering, cloud solutions, and system development.
 
-I run a software studio in Ho Chi Minh City, delivering practical, scalable, and cost-effective technology solutions for SMEs and technology companies. We are currently expanding into Singapore and Australia.
-
-I will complete my Master of Artificial Intelligence at RMIT University this year.
+I'm running a software studio in Ho Chi Minh City, delivering practical, scalable, and cost-effective technology solutions for SMEs and technology companies. We are currently expanding into Singapore and Australia.
 
 ## Client Projects
 We have delivered solutions across:
