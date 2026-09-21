@@ -4,15 +4,14 @@ I’m a technical consultant with over six years of experience in software engin
 
 I'm running a software studio in HCMC, delivering practical, scalable, and cost-effective technology solutions for SMEs and technology companies. We are currently expanding into Singapore and Australia.
 
-## Client Projects
 We have delivered solutions across:
-* Ceramics/Factory
+* Ceramics manufacturing
+* E-commerce
 * Printing and consumables
-* Digital marketing
-* Predictable outbound and lead generation
-* Campaign management
+* Digital marketing, outbound and lead generation, campaign management
 * Brand storytelling
 * Sales pipeline development
+
 
 ## 📫 Connect With Me
 
